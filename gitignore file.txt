@@ -1,0 +1,5 @@
+# Ignore compiled Python files
+*.pyc
+
+# Ignore the collect.php file
+collect.php
